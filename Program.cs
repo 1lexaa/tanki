@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DaySeven
+namespace Tanki
 {
     class Services
     {
