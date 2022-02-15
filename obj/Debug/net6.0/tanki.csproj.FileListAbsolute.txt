@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/tanki
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/tanki.deps.json
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/tanki.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/tanki.dll
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/ref/tanki.dll
+/Users/1lexaa/Documents/учеба/tanki/bin/Debug/net6.0/tanki.pdb
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.dll
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/ref/tanki.dll
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.pdb
+/Users/1lexaa/Documents/учеба/tanki/obj/Debug/net6.0/tanki.genruntimeconfig.cache
